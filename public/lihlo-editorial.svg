@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Lihlo editorial frame</title>
+  <desc id="desc">Abstract film frame with a creator silhouette and editing timeline.</desc>
+  <rect width="1200" height="800" fill="#111111"/>
+  <rect x="70" y="70" width="1060" height="520" rx="8" fill="#7CC4F2"/>
+  <circle cx="600" cy="280" r="120" fill="#E8A94A"/>
+  <path d="M420 590c22-150 92-226 180-226s158 76 180 226" fill="#111111"/>
+  <rect x="70" y="625" width="1060" height="105" rx="8" fill="#FFFFFF"/>
+  <rect x="110" y="655" width="280" height="18" rx="9" fill="#FF8A70"/>
+  <rect x="420" y="655" width="170" height="18" rx="9" fill="#6BC7B5"/>
+  <rect x="620" y="655" width="380" height="18" rx="9" fill="#4A8DFF"/>
+  <circle cx="390" cy="700" r="10" fill="#E8A94A"/>
+  <circle cx="690" cy="700" r="10" fill="#EF4444"/>
+  <circle cx="900" cy="700" r="10" fill="#E8A94A"/>
+</svg>
